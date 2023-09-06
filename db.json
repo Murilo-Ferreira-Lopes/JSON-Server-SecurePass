@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "matricula": "1231720",
+      "nome": "Thiago Nascimento",
+      "setor": "Chao de Fabrica",
+      "dataNasc": "28/08/1998",
+      "funcao": "Chefe chao de fabrica",
+      "sessao": "304",
+      "email": "thiago@email.com",
+      "password": "$2a$10$5DTwmNzscGj1QHFbUOkhLewXjHodiZpuy7VauD28pwfLtibFH2tkq",
+      "id": 1
+    },
+    {
+      "email": "murilo@email.com",
+      "password": "$2a$10$GsoAb0tdwbKiqBdUOUU8j.sG/OolaW0RamrxvbTUJsTyOt02mAKpm",
+      "matricula": "123456",
+      "nome": "Murilo Ferreira Lopes",
+      "setor": "Chao de fabrica",
+      "dataNasc": "07/05/2002",
+      "funcao": "Montador",
+      "sessao": "305",
+      "user_img": "",
+      "id": 2
+    }
+  ]
+}
